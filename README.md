@@ -1,0 +1,1 @@
+This is the digital business card assignment through Bob Ziroll's React Scrimba course. Basically it's just making the compoenent through react and JSX and applying the CSS to match the template. I didn't take too much time on the CSS. There are a few additioinal styles that should be added.

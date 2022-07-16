@@ -1,0 +1,51 @@
+* {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+.info-container {
+  background-color: #1A1B21;
+  width: 317px;
+}
+
+
+.container {
+  background-color: #1A1B21;
+  width: 317px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.button {
+  width: 247px;
+  background-color: rgb(184, 181, 181);
+  font-weight: bold;
+  color: #1A1B21;
+  text-align: center;
+
+}
+
+.name {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.job {
+  font-size: 12px;
+  color: #F3BF99;
+}
+
+.title {
+  padding: 7px;
+}
+
+.icon {
+  padding: 6px;
+}
